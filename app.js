@@ -57,9 +57,3 @@ app.post("/failure", (req, res) => {
 app.listen(port, () => {
     console.log("Server is running at http://localhost:" + port);
 });
-
-// API KEY
-// 6ec589f13e9e558dccaf31959ddcc85f-us17
-
-// List Id
-// 17f2d640ba
